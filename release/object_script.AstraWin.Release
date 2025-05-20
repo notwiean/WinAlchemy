@@ -1,0 +1,15 @@
+release/powersettingsmanager.o
+release/registrymanager.o
+release/servicemanager.o
+release/status.o
+release/additionalsettings.o
+release/cleaner.o
+release/generalsettings.o
+release/aboutprogram.o
+release/main.o
+release/mainwindow.o
+release/astrawin_plugin_import.o
+release/qrc_images.o
+release/qrc_darkstyle.o
+release/moc_aboutprogram.o
+release/moc_mainwindow.o

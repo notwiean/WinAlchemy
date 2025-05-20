@@ -1,0 +1,15 @@
+debug/powersettingsmanager.o
+debug/registrymanager.o
+debug/servicemanager.o
+debug/status.o
+debug/additionalsettings.o
+debug/cleaner.o
+debug/generalsettings.o
+debug/aboutprogram.o
+debug/main.o
+debug/mainwindow.o
+debug/astrawin_plugin_import.o
+debug/qrc_images.o
+debug/qrc_darkstyle.o
+debug/moc_aboutprogram.o
+debug/moc_mainwindow.o
